@@ -1,7 +1,7 @@
 {
     "name": "Faceman #1",
     "description": "This is a cool description of collection!",
-    "image": "1.png",
+    "image": "https://raw.githubusercontent.com/melvard/my_test_files/main/1.png",
     "edition": 1,
     "seller_fee_basis_points": 500,
     "collection": {
