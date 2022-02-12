@@ -1,0 +1,45 @@
+{
+    "name": "Faceman #14",
+    "description": "This is a cool description of collection!",
+    "image": "14.png",
+    "edition": 14,
+    "seller_fee_basis_points": 500,
+    "collection": {
+        "name": "Easy-peasy Facemans",
+        "family": "Easy-peasy Facemans"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "14.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Faces",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "MagicalCreature"
+        },
+        {
+            "trait_type": "Haircut",
+            "value": "Hair"
+        }
+    ]
+}

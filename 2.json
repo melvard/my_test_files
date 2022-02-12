@@ -1,0 +1,45 @@
+{
+    "name": "Faceman #2",
+    "description": "This is a cool description of collection!",
+    "image": "2.png",
+    "edition": 2,
+    "seller_fee_basis_points": 500,
+    "collection": {
+        "name": "Easy-peasy Facemans",
+        "family": "Easy-peasy Facemans"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BlueSky"
+        },
+        {
+            "trait_type": "Faces",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored1"
+        },
+        {
+            "trait_type": "Haircut",
+            "value": "BobMarley"
+        }
+    ]
+}

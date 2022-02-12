@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Faceman #0",
+        "description": "This is a cool description of collection!",
+        "image": "0.png",
+        "edition": 0,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "0.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare3"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal1"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #1",
+        "description": "This is a cool description of collection!",
+        "image": "1.png",
+        "edition": 1,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "1.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare1"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "White"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored2"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #2",
+        "description": "This is a cool description of collection!",
+        "image": "2.png",
+        "edition": 2,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "2.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "BlueSky"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored1"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "BobMarley"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #3",
+        "description": "This is a cool description of collection!",
+        "image": "3.png",
+        "edition": 3,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "3.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "BlueSky"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "BrightSkin"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #4",
+        "description": "This is a cool description of collection!",
+        "image": "4.png",
+        "edition": 4,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "4.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "BrightSkin"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored2"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "BobMarley"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #5",
+        "description": "This is a cool description of collection!",
+        "image": "5.png",
+        "edition": 5,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "5.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "BlueSky"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "DontKnow"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "BobMarley"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #6",
+        "description": "This is a cool description of collection!",
+        "image": "6.png",
+        "edition": 6,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "6.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare1"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "White"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Harsanekan"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #7",
+        "description": "This is a cool description of collection!",
+        "image": "7.png",
+        "edition": 7,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "7.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare3"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "White"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "DontKnow"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Hair"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #8",
+        "description": "This is a cool description of collection!",
+        "image": "8.png",
+        "edition": 8,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "8.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "DontKnow"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "BobMarley"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #9",
+        "description": "This is a cool description of collection!",
+        "image": "9.png",
+        "edition": 9,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "9.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "FadeGreen"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "BrightSkin"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored2"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "BobMarley"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #10",
+        "description": "This is a cool description of collection!",
+        "image": "10.png",
+        "edition": 10,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "10.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "BlueSky"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #11",
+        "description": "This is a cool description of collection!",
+        "image": "11.png",
+        "edition": 11,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "11.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "BurdoyNerk"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "GirlNormal"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #12",
+        "description": "This is a cool description of collection!",
+        "image": "12.png",
+        "edition": 12,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "12.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Survrised"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal1"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #13",
+        "description": "This is a cool description of collection!",
+        "image": "13.png",
+        "edition": 13,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "13.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Mulat"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Survrised"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "GirlNormal"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #14",
+        "description": "This is a cool description of collection!",
+        "image": "14.png",
+        "edition": 14,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "14.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Hair"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #15",
+        "description": "This is a cool description of collection!",
+        "image": "15.png",
+        "edition": 15,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "15.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Mulat"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Sonic"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #16",
+        "description": "This is a cool description of collection!",
+        "image": "16.png",
+        "edition": 16,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "16.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored2"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #17",
+        "description": "This is a cool description of collection!",
+        "image": "17.png",
+        "edition": 17,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "17.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Pink"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "BrightSkin"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "MagicalCreature"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal2"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #18",
+        "description": "This is a cool description of collection!",
+        "image": "18.png",
+        "edition": 18,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "18.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare1"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "Mulat"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "DontKnow"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "NoHair"
+            }
+        ]
+    },
+    {
+        "name": "Faceman #19",
+        "description": "This is a cool description of collection!",
+        "image": "19.png",
+        "edition": 19,
+        "seller_fee_basis_points": 500,
+        "collection": {
+            "name": "Easy-peasy Facemans",
+            "family": "Easy-peasy Facemans"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "19.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Rare2"
+            },
+            {
+                "trait_type": "Faces",
+                "value": "BrightSkin"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Sonic"
+            },
+            {
+                "trait_type": "Haircut",
+                "value": "Normal1"
+            }
+        ]
+    }
+]
